@@ -1,3 +1,4 @@
+# This is a simple TicTacToe game with computer as the second player
 import random
 
 board = ['-','-','-',
